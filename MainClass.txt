@@ -1,0 +1,3 @@
+START PROGRAM
+HelloGit heloGit=new HelloGit();
+END PROGRAM
