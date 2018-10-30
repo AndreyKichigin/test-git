@@ -1,3 +1,4 @@
 START PROGRAM
 HelloGit heloGit=new HelloGit();
+heloGit.PrintInfo();
 END PROGRAM
